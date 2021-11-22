@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.810.6
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AIN-Det4", "AIN-Det4\AIN-Det4.csproj", "{FACF146C-7427-40C6-BAED-C480F827FAE7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FACF146C-7427-40C6-BAED-C480F827FAE7}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{FACF146C-7427-40C6-BAED-C480F827FAE7}.Debug|anycpu.Build.0 = Debug|anycpu
+		{FACF146C-7427-40C6-BAED-C480F827FAE7}.Release|anycpu.ActiveCfg = Release|anycpu
+		{FACF146C-7427-40C6-BAED-C480F827FAE7}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {85E2795E-CB31-4DC8-AEEA-14E741011A1C}
+	EndGlobalSection
+EndGlobal
